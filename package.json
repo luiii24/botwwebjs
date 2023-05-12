@@ -37,7 +37,7 @@
     "tiktok-ig-metadata": "^1.0.2",
     "translate-google-api": "^1.0.4",
     "util": "^0.12.5",
-    "whatsapp-web.js": "github:amiruldev20/wwebjs",
+    "whatsapp-web.js": "github:Ftwrr/whatsapp-web.js",
     "yt-search": "^2.10.4",
     "ytsearch": "^1.0.4"
   }
